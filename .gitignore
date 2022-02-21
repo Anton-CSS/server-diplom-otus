@@ -1,0 +1,6 @@
+dist
+doc
+.idea
+node_modules
+coverage
+.eslintcache
